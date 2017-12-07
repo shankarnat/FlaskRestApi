@@ -30,4 +30,4 @@ def get_temp(type):
     return jsonify({'task': temp[0]})
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0')
