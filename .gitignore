@@ -21,4 +21,5 @@ obj/
 _ReSharper*/
 lib/
 bin/
+pip-selfcheck.json
 include/
