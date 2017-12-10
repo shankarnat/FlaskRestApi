@@ -1,5 +1,4 @@
 # FlaskRestApi
-This repository is for learning basics of Flask Rest API 
 
 First Rest API would convert Celcius to Farenheit and ViceVersa
 
